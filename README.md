@@ -1,6 +1,8 @@
 # Caramels & Sweets
 ## Home page
 ![alt text](<./image/Screenshot from 2024-02-20 09-47-33.png>)
+
+## Installation and Useage
 1. ```git clone https://github.com/htc4/MeryH.git```
 2. ``` cd MeryH```
 
