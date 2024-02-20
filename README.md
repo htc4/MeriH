@@ -3,7 +3,7 @@
 ## Installation and Useage
 1. ```git clone https://github.com/htc4/MeryH.git```
 2. ``` cd MeryH```
-3. 
+3.  Now run index.html file (click in it)
 ## Home page
 ![alt text](<./image/Screenshot from 2024-02-20 09-47-33.png>)
 
