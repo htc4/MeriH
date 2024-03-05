@@ -7,8 +7,17 @@
 ## Home page
 ![alt text](<./image/Screenshot from 2024-02-20 09-47-33.png>)
 
+### Description
+This page has the name of my website, the logo at the top, because it is a cake website, 
+there is a picture of my page at the back of the name. At the top I have 3 buttons - Login,
+About Us and Our Cakes - that take you to other pages that I'll talk about soon.
+In the lower part, I have an order button, clicking on which will open another window.
+
 ## Log In page
 ![page 2](https://github.com/htc4/MeriH/assets/159127762/16ca27fa-edf2-4a3d-bdee-25561d1c27b1)
+
+Description
+
 
 ##Store page
 ![page3](https://github.com/htc4/MeriH/assets/159127762/9dad3ba9-6462-4e9a-96df-590a8e20729e)
