@@ -14,7 +14,7 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.v2332_72 {
+.subDiv1 {
   width: 707px;
   height: 947px;
   background: url("../images/v2332_72.png");
@@ -27,7 +27,7 @@ body {
   left: 30px;
   overflow: hidden;
 }
-.v2332_73 {
+.subDiv2 {
   width: 419px;
   height: 137px;
   background: url("../images/v2332_73.png");
@@ -40,7 +40,7 @@ body {
   left: 939px;
   overflow: hidden;
 }
-.v2332_74 {
+.subDiv3 {
   width: 419px;
   height: 99px;
   background: rgba(240,202,197,1);
