@@ -9,15 +9,15 @@
 
 ### Description
 This page has the name of my website, the logo at the top, because it is a cake website, 
-there is a picture of my page at the back of the name. At the top I have 3 buttons - Login,
+there is a picture of my page at the back of the name. At the top I have 3 buttons - Log In,
 About Us and Our Cakes - that take you to other pages that I'll talk about soon.
-In the lower part, I have an order button, clicking on which will open another window.
+In the lower part, I have an order button.
 
 ## Log In page
 ![page 2](https://github.com/htc4/MeriH/assets/159127762/16ca27fa-edf2-4a3d-bdee-25561d1c27b1)
 
 ### Description
-Entering the log in page, a window opens, where, in one part,there is a picture of a cake,
+Entering the Log In page, a window opens, where, in one part,there is a picture of a cake,
 and in the other part, there are windows for registration․
 
 ##Store page
@@ -39,7 +39,7 @@ it was ordered for. The customer's rating for our cake can be seen in the lower 
 ![page 5](https://github.com/htc4/MeriH/assets/159127762/a55783fc-c4f0-4340-9599-1dbc18438f1a)
 
 ### Description
-The last page tells about us, there are pictures of our
+The last page tells About Us, there are pictures of our
 work and brief information. At the bottom is our phone
 number, our email and our address.
 
