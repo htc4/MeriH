@@ -31,7 +31,7 @@ and where we can order our favorite cake.
 ![page4](https://github.com/htc4/MeriH/assets/159127762/597859b2-870a-4f31-bc8f-276f77523095)
 
 ### Description
-The other is the order page, where you can see the order of the
+The other is the Order page, where you can see the order of the
 cake ordered by our last customer, the name and how many people
 it was ordered for. The customer's rating for our cake can be seen in the lower part.
 
