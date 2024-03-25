@@ -14,21 +14,22 @@ About Us and Our Cakes - that take you to other pages that I'll talk about soon.
 In the lower part, I have an order button.
 
 ## Log In page
-![page 2](https://github.com/htc4/MeriH/assets/159127762/16ca27fa-edf2-4a3d-bdee-25561d1c27b1)
+![page 2]![Screenshot from 2024-03-25 11-28-58](https://github.com/htc4/MeriH/assets/159127762/d49949d7-22ec-4954-a3b4-d115b341dd57)
 
 ### Description
 Entering the Log In page, a window opens, where, in one part,there is a picture of a cake,
 and in the other part, there are windows for registration․
 
 ##Store page
-![page3](https://github.com/htc4/MeriH/assets/159127762/9dad3ba9-6462-4e9a-96df-590a8e20729e)
+![page3] ![Screenshot from 2024-03-25 11-29-13](https://github.com/htc4/MeriH/assets/159127762/a056c7ba-f68f-44f0-912f-d120463fbe90)
+
 
 ### Description
 Then the page of our cakes opens with pictures of the cakes and the price
 and where we can order our favorite cake.
 
 ##Order page
-![page4](https://github.com/htc4/MeriH/assets/159127762/597859b2-870a-4f31-bc8f-276f77523095)
+![page4] ![Screenshot from 2024-03-25 11-29-18](https://github.com/htc4/MeriH/assets/159127762/88a8a185-100d-444a-9370-546bec564c75)
 
 ### Description
 The other is the Order page, where you can see the order of the
@@ -36,7 +37,7 @@ cake ordered by our last customer, the name and how many people
 it was ordered for. The customer's rating for our cake can be seen in the lower part.
 
 ##About Us page
-![page 5](https://github.com/htc4/MeriH/assets/159127762/a55783fc-c4f0-4340-9599-1dbc18438f1a)
+![page 5] ![Screenshot from 2024-03-25 11-29-25](https://github.com/htc4/MeriH/assets/159127762/ab611ec7-3f6f-4b4b-85df-0ecd17ab0db4)
 
 ### Description
 The last page tells About Us, there are pictures of our
@@ -45,3 +46,4 @@ number, our email and our address.
 
 ## Demo version
 [a link](https://www.figma.com/proto/4HKXC8HGMSTs4PuVJgAfje/Untitled?type=design&node-id=700-5&t=MZwBUMu2PG0t2Pjy-0&scaling=min-zoom&page-id=700%3A2&starting-point-node-id=700%3A5&prev-org-id=external-teams)
+
