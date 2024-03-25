@@ -1,0 +1,155 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.mainDiv {
+  width: 100%;
+  height: 1024px;
+  background: rgba(207,180,185,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.subDiv1 {
+  width: 707px;
+  height: 947px;
+  background: url("../images/v2332_72.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 38px;
+  left: 30px;
+  overflow: hidden;
+}
+.subDiv2 {
+  width: 419px;
+  height: 137px;
+  background: url("../images/v2332_73.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 361px;
+  left: 939px;
+  overflow: hidden;
+}
+.subDiv3 {
+  width: 419px;
+  height: 99px;
+  background: rgba(240,202,197,1);
+  opacity: 1;
+  position: absolute;
+  top: 38px;
+  left: 0px;
+  border-top-left-radius: 28px;
+  border-top-right-radius: 28px;
+  border-bottom-left-radius: 28px;
+  border-bottom-right-radius: 28px;
+  overflow: hidden;
+}
+.logIn {
+  width: 149px;
+  color: rgba(0,0,0,0.5);
+  position: absolute;
+  top: 0px;
+  left: 14px;
+  font-family: Istok Web;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.log_in {
+  width: 292px;
+  color: rgba(0,0,0,0.7799999713897705);
+  position: absolute;
+  top: 179px;
+  left: 797px;
+  font-family: Imprima;
+  font-weight: Regular;
+  font-size: 96px;
+  opacity: 1;
+  text-align: left;
+}
+.loginP1 {
+  width: 419px;
+  height: 139px;
+  background: url("../images/v2332_77.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 538px;
+  left: 797px;
+  overflow: hidden;
+}
+.loginP2 {
+  width: 419px;
+  height: 99px;
+  background: rgba(240,202,197,1);
+  opacity: 1;
+  position: absolute;
+  top: 40px;
+  left: 0px;
+  border-top-left-radius: 28px;
+  border-top-right-radius: 28px;
+  border-bottom-left-radius: 28px;
+  border-bottom-right-radius: 28px;
+  overflow: hidden;
+}
+.password {
+  width: 196px;
+  color: rgba(0,0,0,0.5);
+  position: absolute;
+  top: 0px;
+  left: 14px;
+  font-family: Istok Web;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.store {
+  width: 111px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 38px;
+  left: 1247px;
+  font-family: Imprima;
+  font-weight: Regular;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}
+.order {
+  width: 122px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 38px;
+  left: 1073px;
+  font-family: Imprima;
+  font-weight: Regular;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}
+.aboutUs {
+  width: 195px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 38px;
+  left: 826px;
+  font-family: Imprima;
+  font-weight: Regular;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}
