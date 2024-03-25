@@ -1,8 +1,8 @@
 # Caramels & Sweets
 
 ## Installation and Useage
-1. ```git clone https://github.com/htc4/MeryH.git```
-2. ``` cd MeryH```
+1. ```git clone https://github.com/htc4/MeriH.git```
+2. ``` cd MeriH```
 3. run index.html file by  clicking on it 
 ## Home page
 ![alt text](<./image/Screenshot from 2024-02-20 09-47-33.png>)
