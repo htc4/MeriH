@@ -3,7 +3,8 @@
 ## Installation and Useage
 1. ```git clone https://github.com/htc4/MeriH.git```
 2. ``` cd MeriH```
-3. run index.html file by  clicking on it 
+3. run index.html file by  clicking on it
+4. 
 ## Home page
 ![alt text](<./image/Screenshot from 2024-02-20 09-47-33.png>)
 
@@ -20,7 +21,7 @@ In the lower part, I have an order button.
 Entering the Log In page, a window opens, where, in one part,there is a picture of a cake,
 and in the other part, there are windows for registration․
 
-##Store page
+## Store page
 ![page3] ![Screenshot from 2024-03-25 11-29-13](https://github.com/htc4/MeriH/assets/159127762/a056c7ba-f68f-44f0-912f-d120463fbe90)
 
 
@@ -28,7 +29,7 @@ and in the other part, there are windows for registration․
 Then the page of our cakes opens with pictures of the cakes and the price
 and where we can order our favorite cake.
 
-##Order page
+## Order page
 ![page4] ![Screenshot from 2024-03-25 11-29-18](https://github.com/htc4/MeriH/assets/159127762/88a8a185-100d-444a-9370-546bec564c75)
 
 ### Description
@@ -36,7 +37,7 @@ The other is the Order page, where you can see the order of the
 cake ordered by our last customer, the name and how many people
 it was ordered for. The customer's rating for our cake can be seen in the lower part.
 
-##About Us page
+## About Us page
 ![page 5] ![Screenshot from 2024-03-25 11-29-25](https://github.com/htc4/MeriH/assets/159127762/ab611ec7-3f6f-4b4b-85df-0ecd17ab0db4)
 
 ### Description
