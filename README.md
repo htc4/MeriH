@@ -10,13 +10,13 @@
 ## Log In page
 ![page 2] ![Screenshot from 2024-03-25 11-28-58](https://github.com/htc4/MeriH/assets/159127762/cce6f521-a21a-43c3-9971-8a2ad10ad942)
 
-##Store page
+## Store page
 ![page3](https://github.com/htc4/MeriH/assets/159127762/9dad3ba9-6462-4e9a-96df-590a8e20729e)
 
-##Order page
+## Order page
 ![page4](https://github.com/htc4/MeriH/assets/159127762/597859b2-870a-4f31-bc8f-276f77523095)
 
-##About Us page
+## About Us page
 ![page 5](https://github.com/htc4/MeriH/assets/159127762/a55783fc-c4f0-4340-9599-1dbc18438f1a)
 
 ## Demo versia
