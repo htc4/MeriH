@@ -4,9 +4,19 @@
 body {
   font-size: 14px;
 }
-.mainDiv1 {
+.mainDiv {
   width: 100%;
-  height: 1024px;
+  height: 1021px;
+  background: rgba(133,92,106,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.subDiv {
+  width: 754px;
+  height: 100%;
   background: rgba(207,180,185,1);
   opacity: 1;
   position: relative;
@@ -14,12 +24,42 @@ body {
   left: 0px;
   overflow: hidden;
 }
+.image1 {
+  width: 698px;
+  height: 948px;
+  background: url("../images/v1741_135.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 37px;
+  left: 30px;
+  border-top-left-radius: 28px;
+  border-top-right-radius: 28px;
+  border-bottom-left-radius: 28px;
+  border-bottom-right-radius: 28px;
+  overflow: hidden;
+}
+.image2 {
+  width: 532px;
+  height: 58px;
+  background: url("../images/v2979_152.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 12px;
+  left: 851px;
+  overflow: hidden;
+}
 .store {
   width: 111px;
-  color: rgba(120,84,96,1);
+  color: rgba(255,255,255,1);
   position: absolute;
-  top: 7px;
-  left: 1222px;
+  top: 0px;
+  left: 421px;
   font-family: Imprima;
   font-weight: Regular;
   font-size: 50px;
@@ -28,10 +68,10 @@ body {
 }
 .order {
   width: 122px;
-  color: rgba(255,255,255,1);
+  color: rgba(220,183,200,1);
   position: absolute;
-  top: 7px;
-  left: 1048px;
+  top: 0px;
+  left: 247px;
   font-family: Imprima;
   font-weight: Regular;
   font-size: 50px;
@@ -41,208 +81,132 @@ body {
 .aboutUs {
   width: 195px;
   color: rgba(255,255,255,1);
-  position: absolute;
-  top: 7px;
-  left: 801px;
+  position: relative;
+  top: 0px;
+  left: 0px;
   font-family: Imprima;
   font-weight: Regular;
   font-size: 50px;
   opacity: 1;
   text-align: left;
-}
-.image1 {
-  width: 270px;
-  height: 270px;
-  background: url("../images/v705_96.png");
-  opacity: 1;
-  position: absolute;
-  top: 519px;
-  left: 109px;
-  border-radius: 50%;
-}
-.image2 {
-  width: 270px;
-  height: 270px;
-  background: url("../images/v705_97.png");
-  opacity: 1;
-  position: absolute;
-  top: 519px;
-  left: 436px;
-  border-radius: 50%;
 }
 .image3 {
-  width: 270px;
-  height: 270px;
-  background: url("../images/v705_98.png");
+  width: 348px;
+  height: 72px;
+  background: url("../images/v2979_153.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 519px;
-  left: 763px;
-  border-radius: 50%;
+  top: 930px;
+  left: 1054px;
+  overflow: hidden;
 }
 .image4 {
-  width: 270px;
-  height: 270px;
-  background: url("../images/v705_99.png");
+  width: 238px;
+  height: 48px;
+  background: url("../images/v1749_139.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 519px;
-  left: 1090px;
-  border-radius: 50%;
+  top: 12px;
+  left: 110px;
+  overflow: hidden;
+}
+.name1 {
+  color: #fff;
+}
+.name2 {
+  color: #fff;
+}
+.name3 {
+  color: #fff;
+}
+.name4 {
+  color: #fff;
+}
+.name5 {
+  color: #fff;
 }
 .image5 {
-  width: 270px;
-  height: 270px;
-  background: url("../images/v705_100.png");
+  width: 83px;
+  height: 72px;
+  background: url("../images/v817_11.png");
   opacity: 1;
   position: absolute;
-  top: 128px;
-  left: 103px;
+  top: 0px;
+  left: 0px;
   border-radius: 50%;
 }
-.image6 {
-  width: 270px;
-  height: 270px;
-  background: url("../images/v705_101.png");
-  opacity: 1;
-  position: absolute;
-  top: 128px;
-  left: 433px;
-  border-radius: 50%;
-}
-.image7 {
-  width: 270px;
-  height: 270px;
-  background: url("../images/v705_102.png");
-  opacity: 1;
-  position: absolute;
-  top: 128px;
-  left: 763px;
-  border-radius: 50%;
-}
-.image8 {
-  width: 270px;
-  height: 270px;
-  background: url("../images/v705_103.png");
-  opacity: 1;
-  position: absolute;
-  top: 128px;
-  left: 1093px;
-  border-radius: 50%;
-}
-.price_1 {
-  width: 78px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 398px;
-  left: 199px;
-  font-family: Imprima;
-  font-weight: Regular;
-  font-size: 50px;
-  opacity: 1;
-  text-align: left;
-}
-.price_2 {
-  width: 78px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 398px;
-  left: 529px;
-  font-family: Imprima;
-  font-weight: Regular;
-  font-size: 50px;
-  opacity: 1;
-  text-align: left;
-}
-.price_3 {
-  width: 78px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 398px;
-  left: 859px;
-  font-family: Imprima;
-  font-weight: Regular;
-  font-size: 50px;
-  opacity: 1;
-  text-align: left;
-}
-.price_4 {
-  width: 78px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 398px;
-  left: 1189px;
-  font-family: Imprima;
-  font-weight: Regular;
-  font-size: 50px;
-  opacity: 1;
-  text-align: left;
-}
-.price_5 {
-  width: 78px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 852px;
-  left: 199px;
-  font-family: Imprima;
-  font-weight: Regular;
-  font-size: 50px;
-  opacity: 1;
-  text-align: left;
-}
-.price_6 {
-  width: 78px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 852px;
-  left: 529px;
-  font-family: Imprima;
-  font-weight: Regular;
-  font-size: 50px;
-  opacity: 1;
-  text-align: left;
-}
-.price_7 {
-  width: 78px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 852px;
-  left: 859px;
-  font-family: Imprima;
-  font-weight: Regular;
-  font-size: 50px;
-  opacity: 1;
-  text-align: left;
-}
-.price_8 {
-  width: 78px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 852px;
-  left: 1203px;
-  font-family: Imprima;
-  font-weight: Regular;
-  font-size: 50px;
-  opacity: 1;
-  text-align: left;
-}
-.mainDiv2 {
+.subDiv2 {
   width: 43px;
   height: 43px;
   background: rgba(255,255,255,1);
   opacity: 1;
   position: absolute;
-  top: 3px;
+  top: 0px;
   left: 2px;
   overflow: hidden;
 }
-.subDiv {
+.image6 {
   width: 12px;
   height: 24px;
-  background: url("../images/v2451_30.png");
+  background: url("../images/v2487_199.png");
   opacity: 1;
   position: absolute;
   top: 9px;
   left: 16px;
   border: 1.875px solid rgba(248,248,248,1);
+}
+.image7 {
+  width: 555px;
+  height: 498px;
+  background: url("../images/v2979_157.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 210px;
+  left: 799px;
+  overflow: hidden;
+}
+.text1 {
+  width: 555px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 126px;
+  left: 0px;
+  font-family: Imprima;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.textName {
+  width: 302px;
+  color: rgba(255,255,255,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  font-family: Imprima;
+  font-weight: Regular;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}
+.text2 {
+  width: 447px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 406px;
+  left: 0px;
+  font-family: Imprima;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
 }
