@@ -4,19 +4,9 @@
 body {
   font-size: 14px;
 }
-.mainDiv {
+.v705_81 {
   width: 100%;
-  height: 1021px;
-  background: rgba(133,92,106,1);
-  opacity: 1;
-  position: relative;
-  top: 0px;
-  left: 0px;
-  overflow: hidden;
-}
-.subDiv {
-  width: 754px;
-  height: 100%;
+  height: 1024px;
   background: rgba(207,180,185,1);
   opacity: 1;
   position: relative;
@@ -24,39 +14,22 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.image1 {
-  width: 698px;
-  height: 948px;
-  background: url("../images/v1741_135.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
-  position: absolute;
-  top: 37px;
-  left: 30px;
-  border-top-left-radius: 28px;
-  border-top-right-radius: 28px;
-  border-bottom-left-radius: 28px;
-  border-bottom-right-radius: 28px;
-  overflow: hidden;
-}
-.image2 {
+.mainDiv {
   width: 532px;
   height: 58px;
-  background: url("../images/v2979_152.png");
+  background: url("../images/v2979_168.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 12px;
-  left: 851px;
+  top: 7px;
+  left: 801px;
   overflow: hidden;
 }
 .store {
   width: 111px;
-  color: rgba(255,255,255,1);
+  color: rgba(120,84,96,1);
   position: absolute;
   top: 0px;
   left: 421px;
@@ -68,7 +41,7 @@ body {
 }
 .order {
   width: 122px;
-  color: rgba(220,183,200,1);
+  color: rgba(255,255,255,1);
   position: absolute;
   top: 0px;
   left: 247px;
@@ -90,123 +63,316 @@ body {
   opacity: 1;
   text-align: left;
 }
-.image3 {
-  width: 348px;
-  height: 72px;
-  background: url("../images/v2979_153.png");
+.subDiv1 {
+  width: 100%;
+  height: 766px;
+  background: url("../images/v2979_181.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 930px;
-  left: 1054px;
+  top: 128px;
+  left: 103px;
   overflow: hidden;
 }
-.image4 {
-  width: 238px;
-  height: 48px;
-  background: url("../images/v1749_139.png");
+.subDiv2 {
+  width: 270px;
+  height: 328px;
+  background: url("../images/v2979_180.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
-  position: absolute;
-  top: 12px;
-  left: 110px;
+  position: relative;
+  top: 0px;
+  left: 0px;
   overflow: hidden;
 }
-.name1 {
-  color: #fff;
-}
-.name2 {
-  color: #fff;
-}
-.name3 {
-  color: #fff;
-}
-.name4 {
-  color: #fff;
-}
-.name5 {
-  color: #fff;
-}
-.image5 {
-  width: 83px;
-  height: 72px;
-  background: url("../images/v817_11.png");
+.subDiv3 {
+  width: 270px;
+  height: 270px;
+  background: url("../images/v705_100.png");
   opacity: 1;
-  position: absolute;
+  position: relative;
   top: 0px;
   left: 0px;
   border-radius: 50%;
 }
-.subDiv2 {
-  width: 43px;
-  height: 43px;
-  background: rgba(255,255,255,1);
-  opacity: 1;
-  position: absolute;
-  top: 0px;
-  left: 2px;
-  overflow: hidden;
-}
-.image6 {
-  width: 12px;
-  height: 24px;
-  background: url("../images/v2487_199.png");
-  opacity: 1;
-  position: absolute;
-  top: 9px;
-  left: 16px;
-  border: 1.875px solid rgba(248,248,248,1);
-}
-.image7 {
-  width: 555px;
-  height: 498px;
-  background: url("../images/v2979_157.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
-  position: absolute;
-  top: 210px;
-  left: 799px;
-  overflow: hidden;
-}
-.text1 {
-  width: 555px;
+.price30 {
+  width: 78px;
   color: rgba(0,0,0,1);
   position: absolute;
-  top: 126px;
-  left: 0px;
-  font-family: Imprima;
-  font-weight: Regular;
-  font-size: 40px;
-  opacity: 1;
-  text-align: left;
-}
-.textName {
-  width: 302px;
-  color: rgba(255,255,255,1);
-  position: relative;
-  top: 0px;
-  left: 0px;
+  top: 270px;
+  left: 96px;
   font-family: Imprima;
   font-weight: Regular;
   font-size: 50px;
   opacity: 1;
   text-align: left;
 }
-.text2 {
-  width: 447px;
+.cake1 {
+  width: 270px;
+  height: 328px;
+  background: url("../images/v2979_171.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 330px;
+  overflow: hidden;
+}
+.price1 {
+  width: 270px;
+  height: 270px;
+  background: url("../images/v705_101.png");
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-radius: 50%;
+}
+.price20 {
+  width: 78px;
   color: rgba(0,0,0,1);
   position: absolute;
-  top: 406px;
-  left: 0px;
+  top: 270px;
+  left: 96px;
   font-family: Imprima;
   font-weight: Regular;
-  font-size: 40px;
+  font-size: 50px;
   opacity: 1;
   text-align: left;
+}
+.cake2 {
+  width: 270px;
+  height: 328px;
+  background: url("../images/v2979_172.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 660px;
+  overflow: hidden;
+}
+.price2 {
+  width: 270px;
+  height: 270px;
+  background: url("../images/v705_102.png");
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-radius: 50%;
+}
+.price15 {
+  width: 78px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 270px;
+  left: 96px;
+  font-family: Imprima;
+  font-weight: Regular;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}
+.cake3 {
+  width: 270px;
+  height: 328px;
+  background: url("../images/v2979_173.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 990px;
+  overflow: hidden;
+}
+.price3 {
+  width: 270px;
+  height: 270px;
+  background: url("../images/v705_103.png");
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-radius: 50%;
+}
+.price40 {
+  width: 78px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 270px;
+  left: 96px;
+  font-family: Imprima;
+  font-weight: Regular;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}
+.cake4 {
+  width: 270px;
+  height: 349px;
+  background: url("../images/v2979_175.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 417px;
+  left: 6px;
+  overflow: hidden;
+}
+.price4 {
+  width: 270px;
+  height: 270px;
+  background: url("../images/v705_96.png");
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 50%;
+}
+.price10 {
+  width: 78px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 291px;
+  left: 90px;
+  font-family: Imprima;
+  font-weight: Regular;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}
+.cake5 {
+  width: 270px;
+  height: 349px;
+  background: url("../images/v2979_176.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 417px;
+  left: 333px;
+  overflow: hidden;
+}
+.price5 {
+  width: 270px;
+  height: 270px;
+  background: url("../images/v705_97.png");
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 50%;
+}
+.price35 {
+  width: 78px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 291px;
+  left: 93px;
+  font-family: Imprima;
+  font-weight: Regular;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}
+.cake6 {
+  width: 270px;
+  height: 349px;
+  background: url("../images/v2979_177.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 417px;
+  left: 660px;
+  overflow: hidden;
+}
+.price6 {
+  width: 270px;
+  height: 270px;
+  background: url("../images/v705_98.png");
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 50%;
+}
+.price50 {
+  width: 78px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 291px;
+  left: 96px;
+  font-family: Imprima;
+  font-weight: Regular;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}
+.cake7 {
+  width: 270px;
+  height: 349px;
+  background: url("../images/v2979_178.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 417px;
+  left: 987px;
+  overflow: hidden;
+}
+.price7 {
+  width: 270px;
+  height: 270px;
+  background: url("../images/v705_99.png");
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 50%;
+}
+.price45 {
+  width: 78px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 291px;
+  left: 113px;
+  font-family: Imprima;
+  font-weight: Regular;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}
+.cake8 {
+  width: 43px;
+  height: 43px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 3px;
+  left: 2px;
+  overflow: hidden;
+}
+.price8 {
+  width: 12px;
+  height: 24px;
+  background: url("../images/v2451_30.png");
+  opacity: 1;
+  position: absolute;
+  top: 9px;
+  left: 16px;
+  border: 1.875px solid rgba(248,248,248,1);
 }
