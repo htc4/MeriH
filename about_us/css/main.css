@@ -1,0 +1,343 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.mainDiv {
+  width: 100%;
+  height: 1026px;
+  background: rgba(120,84,96,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.subDiv1 {
+  width: 100%;
+  height: 91px;
+  background: rgba(207,180,185,1);
+  opacity: 1;
+  position: absolute;
+  top: 935px;
+  left: 0px;
+  overflow: hidden;
+}
+.image1 {
+  width: 100%;
+  height: 43px;
+  background: url("../images/v2979_183.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 950px;
+  left: 112px;
+  overflow: hidden;
+}
+.image2 {
+  width: 218px;
+  height: 37px;
+  background: url("../images/v733_29.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  left: 0px;
+  overflow: hidden;
+}
+.image3 {
+  width: 37px;
+  height: 37px;
+  background: url("../images/v733_18.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.phoneNumber {
+  width: 168px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 0px;
+  left: 50px;
+  font-family: Istok Web;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.image4 {
+  width: 358px;
+  height: 42px;
+  background: url("../images/v733_27.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 856px;
+  overflow: hidden;
+}
+.image5 {
+  width: 37px;
+  height: 37px;
+  background: url("../images/v733_24.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.address {
+  width: 311px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 0px;
+  left: 47px;
+  font-family: Istok Web;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.subDiv2 {
+  width: 343px;
+  height: 37px;
+  background: url("../images/v733_28.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 3px;
+  left: 363px;
+  overflow: hidden;
+}
+.subDiv3 {
+  width: 37px;
+  height: 37px;
+  background: url("../images/v733_20.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.email {
+  width: 286px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 0px;
+  left: 57px;
+  font-family: Istok Web;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.buttons {
+  width: 486px;
+  height: 58px;
+  background: url("../images/v2979_182.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 10px;
+  left: 887px;
+  overflow: hidden;
+}
+.store {
+  width: 111px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 375px;
+  font-family: Imprima;
+  font-weight: Regular;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}
+.order {
+  width: 122px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 223px;
+  font-family: Imprima;
+  font-weight: Regular;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}
+.aboutUs {
+  width: 354px;
+  color: rgba(207,180,185,1);
+  position: absolute;
+  top: 0px;
+  left: 5px;
+  font-family: Imprima;
+  font-weight: Regular;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}
+.backButton {
+  width: 43px;
+  height: 43px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 2px;
+  overflow: hidden;
+}
+.subDiv5 {
+  width: 12px;
+  height: 24px;
+  background: url("../images/v2487_201.png");
+  opacity: 1;
+  position: absolute;
+  top: 9px;
+  left: 16px;
+  border: 1.875px solid rgba(248,248,248,1);
+}
+.subDiv6 {
+  width: 100%;
+  height: 832px;
+  background: url("../images/v2979_188.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 84px;
+  left: 21px;
+  overflow: hidden;
+}
+.subDiv7 {
+  width: 639px;
+  height: 427px;
+  background: url("../images/v733_9.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 10px;
+  left: 757px;
+  border-top-left-radius: 28px;
+  border-top-right-radius: 28px;
+  border-bottom-left-radius: 28px;
+  border-bottom-right-radius: 28px;
+  overflow: hidden;
+}
+.subDiv8 {
+  width: 645px;
+  height: 427px;
+  background: url("../images/v733_11.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 405px;
+  left: 0px;
+  border-top-left-radius: 28px;
+  border-top-right-radius: 28px;
+  border-bottom-left-radius: 28px;
+  border-bottom-right-radius: 28px;
+  overflow: hidden;
+}
+.subDiv4 {
+  width: 705px;
+  height: 329px;
+  background: url("../images/v2979_187.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 490px;
+  left: 699px;
+  overflow: hidden;
+}
+.text1 {
+  width: 705px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 99px;
+  left: 0px;
+  font-family: Imprima;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.name1 {
+  width: 523px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Imprima;
+  font-weight: Regular;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}
+.image6 {
+  width: 642px;
+  height: 362px;
+  background: url("../images/v2979_186.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 24px;
+  overflow: hidden;
+}
+.text2 {
+  width: 642px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 86px;
+  left: 0px;
+  font-family: Imprima;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.name2 {
+  width: 487px;
+  color: rgba(255,255,255,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  font-family: Imprima;
+  font-weight: Regular;
+  font-size: 50px;
+  opacity: 1;
+  text-align: left;
+}
