@@ -3,6 +3,8 @@
 }
 body {
   font-size: 14px;
+  font-family: Imprima;
+  font-weight: Regular;
 }
 .mainDiv {
   width: 100%;
@@ -48,10 +50,7 @@ body {
   position: absolute;
   top: 38px;
   left: 0px;
-  border-top-left-radius: 28px;
-  border-top-right-radius: 28px;
-  border-bottom-left-radius: 28px;
-  border-bottom-right-radius: 28px;
+  border-radius: 28px;
   overflow: hidden;
 }
 .logIn {
@@ -60,7 +59,7 @@ body {
   position: absolute;
   top: 0px;
   left: 14px;
-  font-family: Istok Web;
+  font-family: Imprima;
   font-weight: Regular;
   font-size: 40px;
   opacity: 1;
@@ -99,10 +98,7 @@ body {
   position: absolute;
   top: 40px;
   left: 0px;
-  border-top-left-radius: 28px;
-  border-top-right-radius: 28px;
-  border-bottom-left-radius: 28px;
-  border-bottom-right-radius: 28px;
+  border-radius: 28px;
   overflow: hidden;
 }
 .password {
@@ -111,8 +107,6 @@ body {
   position: absolute;
   top: 0px;
   left: 14px;
-  font-family: Istok Web;
-  font-weight: Regular;
   font-size: 40px;
   opacity: 1;
   text-align: left;
@@ -123,8 +117,6 @@ body {
   position: absolute;
   top: 38px;
   left: 1247px;
-  font-family: Imprima;
-  font-weight: Regular;
   font-size: 50px;
   opacity: 1;
   text-align: left;
@@ -135,8 +127,6 @@ body {
   position: absolute;
   top: 38px;
   left: 1073px;
-  font-family: Imprima;
-  font-weight: Regular;
   font-size: 50px;
   opacity: 1;
   text-align: left;
@@ -147,8 +137,6 @@ body {
   position: absolute;
   top: 38px;
   left: 826px;
-  font-family: Imprima;
-  font-weight: Regular;
   font-size: 50px;
   opacity: 1;
   text-align: left;
