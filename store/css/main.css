@@ -3,6 +3,8 @@
 }
 body {
   font-size: 14px;
+   font-family: Imprima;
+  font-weight: Regular;
 }
 .v705_81 {
   width: 100%;
@@ -18,9 +20,9 @@ body {
   width: 532px;
   height: 58px;
   background: url("../images/v2979_168.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background: no-repeat;
+  background: center center;
+  background: cover;
   opacity: 1;
   position: absolute;
   top: 7px;
@@ -33,8 +35,6 @@ body {
   position: absolute;
   top: 0px;
   left: 421px;
-  font-family: Imprima;
-  font-weight: Regular;
   font-size: 50px;
   opacity: 1;
   text-align: left;
@@ -45,8 +45,6 @@ body {
   position: absolute;
   top: 0px;
   left: 247px;
-  font-family: Imprima;
-  font-weight: Regular;
   font-size: 50px;
   opacity: 1;
   text-align: left;
@@ -57,8 +55,6 @@ body {
   position: relative;
   top: 0px;
   left: 0px;
-  font-family: Imprima;
-  font-weight: Regular;
   font-size: 50px;
   opacity: 1;
   text-align: left;
@@ -67,9 +63,9 @@ body {
   width: 100%;
   height: 766px;
   background: url("../images/v2979_181.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background: no-repeat;
+  background: center center;
+  background: cover;
   opacity: 1;
   position: absolute;
   top: 128px;
@@ -80,9 +76,9 @@ body {
   width: 270px;
   height: 328px;
   background: url("../images/v2979_180.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background: no-repeat;
+  background: center center;
+  background: cover;
   opacity: 1;
   position: relative;
   top: 0px;
@@ -105,8 +101,6 @@ body {
   position: absolute;
   top: 270px;
   left: 96px;
-  font-family: Imprima;
-  font-weight: Regular;
   font-size: 50px;
   opacity: 1;
   text-align: left;
@@ -115,9 +109,9 @@ body {
   width: 270px;
   height: 328px;
   background: url("../images/v2979_171.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background: no-repeat;
+  background: center center;
+  background: cover;
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -140,8 +134,6 @@ body {
   position: absolute;
   top: 270px;
   left: 96px;
-  font-family: Imprima;
-  font-weight: Regular;
   font-size: 50px;
   opacity: 1;
   text-align: left;
@@ -150,9 +142,9 @@ body {
   width: 270px;
   height: 328px;
   background: url("../images/v2979_172.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background: no-repeat;
+  background: center center;
+  background: cover;
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -175,8 +167,6 @@ body {
   position: absolute;
   top: 270px;
   left: 96px;
-  font-family: Imprima;
-  font-weight: Regular;
   font-size: 50px;
   opacity: 1;
   text-align: left;
@@ -185,9 +175,9 @@ body {
   width: 270px;
   height: 328px;
   background: url("../images/v2979_173.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background: no-repeat;
+  background: center center;
+  background: cover;
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -210,8 +200,6 @@ body {
   position: absolute;
   top: 270px;
   left: 96px;
-  font-family: Imprima;
-  font-weight: Regular;
   font-size: 50px;
   opacity: 1;
   text-align: left;
@@ -220,9 +208,9 @@ body {
   width: 270px;
   height: 349px;
   background: url("../images/v2979_175.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background: no-repeat;
+  background: center center;
+  background: cover;
   opacity: 1;
   position: absolute;
   top: 417px;
@@ -245,8 +233,6 @@ body {
   position: absolute;
   top: 291px;
   left: 90px;
-  font-family: Imprima;
-  font-weight: Regular;
   font-size: 50px;
   opacity: 1;
   text-align: left;
@@ -255,9 +241,9 @@ body {
   width: 270px;
   height: 349px;
   background: url("../images/v2979_176.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background: no-repeat;
+  background: center center;
+  background: cover;
   opacity: 1;
   position: absolute;
   top: 417px;
@@ -280,8 +266,6 @@ body {
   position: absolute;
   top: 291px;
   left: 93px;
-  font-family: Imprima;
-  font-weight: Regular;
   font-size: 50px;
   opacity: 1;
   text-align: left;
@@ -290,9 +274,9 @@ body {
   width: 270px;
   height: 349px;
   background: url("../images/v2979_177.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background: no-repeat;
+  background: center center;
+  background: cover;
   opacity: 1;
   position: absolute;
   top: 417px;
@@ -315,8 +299,6 @@ body {
   position: absolute;
   top: 291px;
   left: 96px;
-  font-family: Imprima;
-  font-weight: Regular;
   font-size: 50px;
   opacity: 1;
   text-align: left;
@@ -325,9 +307,9 @@ body {
   width: 270px;
   height: 349px;
   background: url("../images/v2979_178.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background: no-repeat;
+  background: center center;
+  background: cover;
   opacity: 1;
   position: absolute;
   top: 417px;
@@ -350,8 +332,6 @@ body {
   position: absolute;
   top: 291px;
   left: 113px;
-  font-family: Imprima;
-  font-weight: Regular;
   font-size: 50px;
   opacity: 1;
   text-align: left;
