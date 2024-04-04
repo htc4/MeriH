@@ -20,9 +20,9 @@ body {
   width: 707px;
   height: 947px;
   background: url("../images/v2332_72.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background: no-repeat;
+  background: center center;
+  background: cover;
   opacity: 1;
   position: absolute;
   top: 38px;
@@ -33,9 +33,9 @@ body {
   width: 419px;
   height: 137px;
   background: url("../images/v2332_73.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background: no-repeat;
+  background: center center;
+  background: cover;
   opacity: 1;
   position: absolute;
   top: 361px;
@@ -59,8 +59,6 @@ body {
   position: absolute;
   top: 0px;
   left: 14px;
-  font-family: Imprima;
-  font-weight: Regular;
   font-size: 40px;
   opacity: 1;
   text-align: left;
@@ -71,8 +69,6 @@ body {
   position: absolute;
   top: 179px;
   left: 797px;
-  font-family: Imprima;
-  font-weight: Regular;
   font-size: 96px;
   opacity: 1;
   text-align: left;
@@ -81,9 +77,9 @@ body {
   width: 419px;
   height: 139px;
   background: url("../images/v2332_77.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background: no-repeat;
+  background: center center;
+  background: cover;
   opacity: 1;
   position: absolute;
   top: 538px;
