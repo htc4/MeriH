@@ -3,6 +3,8 @@
 }
 body {
   font-size: 14px;
+  font-family: Imprima;
+  font-weight: Regular;
 }
 .mainDiv {
   width: 100%;
@@ -28,26 +30,23 @@ body {
   width: 698px;
   height: 948px;
   background: url("../images/v1741_135.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background: no-repeat;
+  background: center center;
+  background: cover;
   opacity: 1;
   position: absolute;
   top: 37px;
   left: 30px;
-  border-top-left-radius: 28px;
-  border-top-right-radius: 28px;
-  border-bottom-left-radius: 28px;
-  border-bottom-right-radius: 28px;
+  border-radius: 28px;
   overflow: hidden;
 }
 .image2 {
   width: 532px;
   height: 58px;
   background: url("../images/v2979_152.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background: no-repeat;
+  background: center center;
+  background: cover;
   opacity: 1;
   position: absolute;
   top: 12px;
@@ -60,8 +59,6 @@ body {
   position: absolute;
   top: 0px;
   left: 421px;
-  font-family: Imprima;
-  font-weight: Regular;
   font-size: 50px;
   opacity: 1;
   text-align: left;
@@ -72,8 +69,6 @@ body {
   position: absolute;
   top: 0px;
   left: 247px;
-  font-family: Imprima;
-  font-weight: Regular;
   font-size: 50px;
   opacity: 1;
   text-align: left;
@@ -84,8 +79,6 @@ body {
   position: relative;
   top: 0px;
   left: 0px;
-  font-family: Imprima;
-  font-weight: Regular;
   font-size: 50px;
   opacity: 1;
   text-align: left;
@@ -94,9 +87,9 @@ body {
   width: 348px;
   height: 72px;
   background: url("../images/v2979_153.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background: no-repeat;
+  background: center center;
+  background: cover;
   opacity: 1;
   position: absolute;
   top: 930px;
@@ -107,28 +100,16 @@ body {
   width: 238px;
   height: 48px;
   background: url("../images/v1749_139.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background: no-repeat;
+  background: center center;
+  background: cover;
   opacity: 1;
   position: absolute;
   top: 12px;
   left: 110px;
   overflow: hidden;
 }
-.name1 {
-  color: #fff;
-}
-.name2 {
-  color: #fff;
-}
-.name3 {
-  color: #fff;
-}
-.name4 {
-  color: #fff;
-}
-.name5 {
+.name {
   color: #fff;
 }
 .image5 {
@@ -165,9 +146,9 @@ body {
   width: 555px;
   height: 498px;
   background: url("../images/v2979_157.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background: no-repeat;
+  background: center center;
+  background: cover;
   opacity: 1;
   position: absolute;
   top: 210px;
@@ -180,8 +161,6 @@ body {
   position: absolute;
   top: 126px;
   left: 0px;
-  font-family: Imprima;
-  font-weight: Regular;
   font-size: 40px;
   opacity: 1;
   text-align: left;
@@ -192,8 +171,6 @@ body {
   position: relative;
   top: 0px;
   left: 0px;
-  font-family: Imprima;
-  font-weight: Regular;
   font-size: 50px;
   opacity: 1;
   text-align: left;
@@ -204,8 +181,6 @@ body {
   position: absolute;
   top: 406px;
   left: 0px;
-  font-family: Imprima;
-  font-weight: Regular;
   font-size: 40px;
   opacity: 1;
   text-align: left;
