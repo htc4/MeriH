@@ -3,6 +3,8 @@
 }
 body {
   font-size: 14px;
+   font-family: Imprima;
+   font-weight: Regular;
 }
 .mainDiv {
   width: 100%;
@@ -28,9 +30,9 @@ body {
   width: 100%;
   height: 43px;
   background: url("../images/v2979_183.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background: no-repeat;
+  background: center center;
+  background: cover;
   opacity: 1;
   position: absolute;
   top: 950px;
@@ -41,9 +43,9 @@ body {
   width: 218px;
   height: 37px;
   background: url("../images/v733_29.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background: no-repeat;
+  background: center center;
+  background: cover;
   opacity: 1;
   position: absolute;
   top: 6px;
@@ -54,9 +56,9 @@ body {
   width: 37px;
   height: 37px;
   background: url("../images/v733_18.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background: no-repeat;
+  background: center center;
+  background: cover;
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -69,8 +71,6 @@ body {
   position: absolute;
   top: 0px;
   left: 50px;
-  font-family: Istok Web;
-  font-weight: Regular;
   font-size: 24px;
   opacity: 1;
   text-align: left;
@@ -79,9 +79,9 @@ body {
   width: 358px;
   height: 42px;
   background: url("../images/v733_27.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background: no-repeat;
+  background: center center;
+  background: cover;
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -92,9 +92,9 @@ body {
   width: 37px;
   height: 37px;
   background: url("../images/v733_24.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background: no-repeat;
+  background: center center;
+  background: cover;
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -107,8 +107,6 @@ body {
   position: absolute;
   top: 0px;
   left: 47px;
-  font-family: Istok Web;
-  font-weight: Regular;
   font-size: 24px;
   opacity: 1;
   text-align: left;
@@ -117,9 +115,9 @@ body {
   width: 343px;
   height: 37px;
   background: url("../images/v733_28.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background: no-repeat;
+  background: center center;
+  background: cover;
   opacity: 1;
   position: absolute;
   top: 3px;
@@ -130,9 +128,9 @@ body {
   width: 37px;
   height: 37px;
   background: url("../images/v733_20.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background: no-repeat;
+  background: center center;
+  background: cover;
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -145,8 +143,6 @@ body {
   position: absolute;
   top: 0px;
   left: 57px;
-  font-family: Istok Web;
-  font-weight: Regular;
   font-size: 24px;
   opacity: 1;
   text-align: left;
@@ -155,9 +151,9 @@ body {
   width: 486px;
   height: 58px;
   background: url("../images/v2979_182.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background: no-repeat;
+  background: center center;
+  background: cover;
   opacity: 1;
   position: absolute;
   top: 10px;
@@ -170,8 +166,6 @@ body {
   position: absolute;
   top: 0px;
   left: 375px;
-  font-family: Imprima;
-  font-weight: Regular;
   font-size: 50px;
   opacity: 1;
   text-align: left;
@@ -182,8 +176,6 @@ body {
   position: absolute;
   top: 0px;
   left: 223px;
-  font-family: Imprima;
-  font-weight: Regular;
   font-size: 50px;
   opacity: 1;
   text-align: left;
@@ -194,8 +186,6 @@ body {
   position: absolute;
   top: 0px;
   left: 5px;
-  font-family: Imprima;
-  font-weight: Regular;
   font-size: 50px;
   opacity: 1;
   text-align: left;
@@ -224,9 +214,9 @@ body {
   width: 100%;
   height: 832px;
   background: url("../images/v2979_188.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background: no-repeat;
+  background: center center;
+  background: cover;
   opacity: 1;
   position: absolute;
   top: 84px;
@@ -237,43 +227,37 @@ body {
   width: 639px;
   height: 427px;
   background: url("../images/v733_9.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background: no-repeat;
+  background: center center;
+  background: cover;
   opacity: 1;
   position: absolute;
   top: 10px;
   left: 757px;
-  border-top-left-radius: 28px;
-  border-top-right-radius: 28px;
-  border-bottom-left-radius: 28px;
-  border-bottom-right-radius: 28px;
+  border-radius: 28px;
   overflow: hidden;
 }
 .subDiv8 {
   width: 645px;
   height: 427px;
   background: url("../images/v733_11.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background: no-repeat;
+  background: center center;
+  background: cover;
   opacity: 1;
   position: absolute;
   top: 405px;
   left: 0px;
-  border-top-left-radius: 28px;
-  border-top-right-radius: 28px;
-  border-bottom-left-radius: 28px;
-  border-bottom-right-radius: 28px;
+  border-radius: 28px;
   overflow: hidden;
 }
 .subDiv4 {
   width: 705px;
   height: 329px;
   background: url("../images/v2979_187.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background: no-repeat;
+  background: center center;
+  background: cover;
   opacity: 1;
   position: absolute;
   top: 490px;
@@ -286,8 +270,6 @@ body {
   position: absolute;
   top: 99px;
   left: 0px;
-  font-family: Imprima;
-  font-weight: Regular;
   font-size: 40px;
   opacity: 1;
   text-align: left;
@@ -298,8 +280,6 @@ body {
   position: absolute;
   top: 0px;
   left: 0px;
-  font-family: Imprima;
-  font-weight: Regular;
   font-size: 50px;
   opacity: 1;
   text-align: left;
@@ -308,9 +288,9 @@ body {
   width: 642px;
   height: 362px;
   background: url("../images/v2979_186.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  background: no-repeat;
+  background: center center;
+  background: cover;
   opacity: 1;
   position: absolute;
   top: 0px;
@@ -323,8 +303,6 @@ body {
   position: absolute;
   top: 86px;
   left: 0px;
-  font-family: Imprima;
-  font-weight: Regular;
   font-size: 40px;
   opacity: 1;
   text-align: left;
@@ -335,8 +313,6 @@ body {
   position: relative;
   top: 0px;
   left: 0px;
-  font-family: Imprima;
-  font-weight: Regular;
   font-size: 50px;
   opacity: 1;
   text-align: left;
